@@ -1,3 +1,3 @@
 # python-challenge
 
-Financial analysis of a dataset
+Financial analysis of a dataset using Python language
