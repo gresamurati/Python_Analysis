@@ -1,3 +1,3 @@
 # Financial Analysis
 
-Financial analysis of a dataset using Python language. "output-PyBank.txt" documents shows the final analysis outcome
+Financial analysis of a dataset using Python language. "output-PyBank.txt" document shows the final analysis outcome
